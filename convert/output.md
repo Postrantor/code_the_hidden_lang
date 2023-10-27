@@ -127,7 +127,7 @@ But without little drawings of trains carrying a cargo of zeros and ones.
 [*August 16, 2000*]{.emphasis}
 :::
 
-[]{#ch01.html}
+## []{#ch01.html}
 
 ::: {.chapter title="Chapter 1. Best Friends"}
 ::: titlepage
@@ -247,7 +247,7 @@ When finally you and your best friend memorize Morse code (for that\'s the only 
 The key word here is [*two*]{.emphasis}. Two types of blinks, two vowel sounds, two different anything, really, can with suitable combinations convey all types of information.
 :::
 
-[]{#ch02.html}
+## []{#ch02.html}
 
 ::: {.chapter title="Chapter 2. Codes and Combinations"}
 ::: titlepage
